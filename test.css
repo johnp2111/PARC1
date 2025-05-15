@@ -4,8 +4,7 @@
   }
   
   body {
-    margin: 0;
-    padding: 0;
+    margin: 40px;
     font-family: 'Segoe UI', sans-serif;
     background: #0b0c10;
     color: #C5C6C7;
@@ -32,6 +31,7 @@
   header .highlight {
     color: #d24f00;
     font-weight: bold;
+
   }
   
   /* Main Content */
@@ -93,7 +93,7 @@
     margin-right: 8px;
   }
   .alt-links2:hover {
-    color: blue;
+    color: gray;
   }
   .btn-link {
     display: inline-block;
@@ -115,23 +115,17 @@
   }
 
   .channel_link:hover {
-    color: blue
+    color: gray;
   }
   
   /* Footer */
-  footer {
+  .medias {
     text-align: center;
-    margin-top: 50px;
-    padding: 20px;
-    background: #1F2833;
-    background-color: #;
-    border-radius: 12px;
-    font-size: 0.9rem;
   }
   
   .contact-btn {
     display: inline-block;
-    margin-top: 10px;
+    margin-top: 0px;
     background-color: #d24f00;
     color: white;
     padding: 3px 6px;
