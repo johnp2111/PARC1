@@ -1,0 +1,14 @@
+body {
+    background: #0b0c10;
+}
+
+.part {
+    color: orange;
+    text-align: center;
+}
+.part:hover {
+    color:gray
+}
+a {
+    text-decoration: none;
+}
