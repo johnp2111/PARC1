@@ -1,14 +1,12 @@
-
 body {
-    font-family: 'Segoe UI', sans-serif;
     margin: 40px;
+    font-family: 'Segoe UI', sans-serif;
     background: #0b0c10;
     color: #C5C6C7;
   }
 
   h1 {
     text-align: center;
-    color: #68FCF1;
   }
 
   .subtitle {
@@ -65,25 +63,15 @@ body {
 }
 
 a:hover {
-  color: gray;
+  color: blue;
 }
 a {
   color: orange;
   text-decoration: none;
 }
-
-.textblock {
-    flex: 1;
-    background: #1F2833;
-    padding: 20px;
-    margin: 10px;
-    border-radius: 12px;
-    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.05);
-  }
-
-  .textblock h3 {
-    color: #68FCF1;
-  }
-  .highlight1 {
-    color: orange;
-  }
+.main {
+  color: #68FCF1;
+}
+.highlight {
+  color: orange;
+}
